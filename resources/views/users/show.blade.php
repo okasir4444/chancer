@@ -7,7 +7,7 @@
     <header class="header">
       <p class='header_logo'>
       <a href="{{ route('home') }}">
-      <img src="/storage/images/chancer_logo.png">
+      <img src="/images/chancer_logo.png">
       </a>
       </p>
     </header>
